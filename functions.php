@@ -166,7 +166,7 @@ function getArticleContent($articlePath, $articleSource)
 		//for each text/ul pair, explode on ------, and explode the first segment on \n (encapsulating in <p>), and explode the second segment on \n parsing as a ul
 		foreach ($text as $segment)
 		{
-			if (stripos($text, "-----") !== false)
+			if (stripos($segment, "-----") !== false)
 			{
 				$elements = explode("-----", $segment);
 

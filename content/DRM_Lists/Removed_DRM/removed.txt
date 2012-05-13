@@ -31,7 +31,7 @@ Secret Files Tunguska|http://store.steampowered.com/app/40330/|TAGES on retail
 Secret Files 2: Puritas Cordis|http://store.steampowered.com/app/40340/|TAGES removed via patch
 Shank|http://store.steampowered.com/app/6120/|SolidShield removed via patch
 Silent Hunter III|http://store.steampowered.com/app/15210/|StarForce on retail
-The Sims 3|http://store.steampowered.com/app/47890/|Also includes <a href="http://store.steampowered.com/sub/7222/">Expansions</a> (Most recent: Showtime). SecuROM, Disc check only on retail, 5 machine limit on other digital distributions.
+The Sims 3|http://store.steampowered.com/app/47890/|Includes all expansions (Most recent: Showtime). SecuROM, Disc check only on retail, 5 machine limit on other digital distributions.
 Spore|http://store.steampowered.com/sub/1741/|SecuROM on retail
 Star Wars: Knights of the Old Republic|http://store.steampowered.com/app/32370/|SecuROM on retail
 Tom Clancy&#8217;s Splinter Cell: Chaos Theory|http://store.steampowered.com/app/13570/|StarForce on retail, removed from the Steam version via patch

@@ -1,5 +1,7 @@
 This is the source code for The Big List of 3rd Party DRM on Steam.
 
+Website: http://steamdrm.flibitijibibo.com/
+
 License
 -------
 The content directory is under public domain. However, that's just the content.
@@ -22,6 +24,12 @@ be thorough! Follow the format, cite your sources, etc.
 If you want to contribute to the website code, I suggest you contribute here:
 
 https://github.com/Cheeseness/para-cms
+
+Credits
+-------
+flibitijibibo - Creator of The Big List of 3rd Party DRM on Steam
+Cheeseness - Creator of Para CMS, the SteamDRM artwork and design
+And a whole lot of very helpful people! Too many to list, truthfully.
 
 Feedback is welcome, and pull requests are even more welcome.
 

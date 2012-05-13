@@ -1,8 +1,9 @@
 Welcome!
 Welcome to The Big List of 3rd Party DRM on Steam! This website is dedicated to offering a complete list of games available for purchase on Steam which have outside DRM associated with them on top of the standard Steam DRM.
 Included with the games are the DRM schemes involved, the issues and hindrances you might encounter due to this DRM, and what you can do to prevent DRM from interfering with your gaming experience.
-This list is <strong>user created</strong>, which means your posts and discussion provide the information that gets posted. If you know of a Steam game with DRM not listed here, or not listed accurately, please post at the <a href="http://forums.steampowered.com/forums/showthread.php?t=1537801" target="_blank">Steam Forum Thread</a> and alert the community, or <a href="mailto:flibitijibibo@flibitijibibo.com">e-mail me</a>.
+This list is <strong>user created</strong>, which means your posts and discussion provide the information that gets posted. If you know of a Steam game with DRM not listed here, or not listed accurately, please inform the community at the soonest opportunity.
 <span style="text-decoration: underline;"><em><strong>DISCLAIMER:</strong></em></span> There are many games that have their own in-game store. There are also many games with DLC managed not by Steam but by the publishers themselves. These are NOT included in this list because, as previously stated, the products on these lists are available for purchase <strong>on Steam.</strong> Using non-Steam products on Steam products must be done <strong>at your own risk.</strong>
 Before looking at the lists, I highly recommend that you read the FAQ below, especially if you are new to the concept of DRM.
 <span style="text-decoration: underline;"><strong>License:</strong></span> All of the information found on this website is under public domain.
 Favicon and Twitter profile image courtesy of <a href="http://www.twolofbees.com/" target="_blank">Josh &#8220;Cheeseness&#8221; Bush</a>
+This site is powered by <a href="http://para.jbushproductions.com/">Para CMS</a>.

@@ -1,7 +1,7 @@
 Hardware-based: SecuROM
 To remove SecuROM from your computer, use the <a href="https://support.securom.com/removaltool.html">Removal Tool</a>.
 -----
-Age of Booty; Unlimited activations|http://store.steampowered.com/app/21600/
+Age of Booty|http://store.steampowered.com/app/21600/|Unlimited activations
 Batman: Arkham Asylum|http://store.steampowered.com/app/35140/|<ul><li>Non-GotY Edition: 4 activations per month. A revoke tool is available in your Steam Tools section.<li>GotY Edition: 4 machine limit</li></ul>
 Batman: Arkham City|http://store.steampowered.com/app/57400/|5 machine limit, 10 activations per machine
 BioShock 2|http://store.steampowered.com/app/8850/|Unlimited activations

@@ -1,4 +1,4 @@
-Hardware-based: TAGES/Solidshield
+Hardware-based: TAGES/SolidShield
 To remove the TAGES drivers from your computer, use <a href="http://www.tagesprotection.com/main.htm?page=5.5.htm">TagesSetup</a>.
 -----
 Dawn of Discovery|http://store.steampowered.com/app/33210/Anno 1404/|Activation limit removed in patch
@@ -8,7 +8,7 @@ nail&#8217;d|http://store.steampowered.com/app/901592/|3 machine limit, 1 activa
 James Cameron&#8217;s Avatar: The Game|http://store.steampowered.com/app/33280/|3 machine limit, 1 activation added back every 30 days.
 Sherlock Holmes versus Jack the Ripper|http://store.steampowered.com/app/11190/|Limits unknown
 
-Solidshield is Tages&#8217; new DRM technology. It is presumed that this is their replacement for TAGES.
+SolidShield is Tages&#8217; new DRM technology. It is presumed that this is their replacement for TAGES.
 -----
 A Game of Thrones &#8211; Genesis|http://store.steampowered.com/app/58550/|5 machine limit
 Anno 2070|http://store.steampowered.com/app/48240/|3 machine limit

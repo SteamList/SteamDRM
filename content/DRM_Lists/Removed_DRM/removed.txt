@@ -1,0 +1,43 @@
+Removed DRM
+There are numerous games that have DRM in retail form, but do not have said DRM on the Steam version. There are also games that once had DRM, but it has been removed from the game entirely. To help cautious shoppers, I am adding a section for these games.
+-----
+All games from Telltale Games|http://store.steampowered.com/publisher/Telltale%20Games|SecuROM on retail
+Anomaly: Warzone Earth|http://store.steampowered.com/app/91200/|SecuROM on GamersGate
+ArcaniA &#8211; Gothic 4|http://store.steampowered.com/app/39690/|SecuROM removed via patch
+ARMA: Combat Operations|http://store.steampowered.com/app/2780/|SecuROM removed via patch
+ARMA II|http://store.steampowered.com/app/33900/|SecuROM and <a href="http://en.wikipedia.org/wiki/FADE">FADE</a> removed via patch
+ARMA II: Operation Arrowhead|http://store.steampowered.com/app/33930/|SecuROM removed via patch
+Battlefield: Bad Company 2|http://store.steampowered.com/app/24960/|SecuROM OR disc check on retail, SecuROM removed from Steam version in patch 522175.
+Bionic Commando|http://store.steampowered.com/app/21670/|SecuROM on retail
+Bionic Commando: Rearmed|http://store.steampowered.com/app/21680/|SecuROM on retail
+Blade Kitten|http://store.steampowered.com/app/9940/|SecuROM on retail
+Brothers In Arms: Road to Hill 30|http://store.steampowered.com/app/15190/|StarForce on retail
+Brothers In Arms: Earned in Blood|http://store.steampowered.com/app/19800/|StarForce on retail
+Brothers In Arms: Hell&#8217;s Highway|http://store.steampowered.com/app/15390/|SecuROM on retail
+Command &amp; Conquer: Red Alert 3|http://store.steampowered.com/app/17480/|SecuROM on retail, removed from the Steam version via patch
+Dead Space 2|http://store.steampowered.com/app/47780/|SecuROM on retail
+Dragon Age 2 (Store page unavailable)|http://store.steampowered.com/app/47900/|SecuROM on retail
+Grotesque Tactics: Evil Heroes|http://store.steampowered.com/app/46450/|SecuROM on retail
+Hamilton&#8217;s Great Adventure|http://store.steampowered.com/app/42140/|SecuROM on GamersGate
+Heroes of Might and Magic V|http://store.steampowered.com/app/15170/|SecuROM on retail
+Heroes of Might and Magic V: Hammers of Fate|http://store.steampowered.com/app/15380/|SecuROM on retail
+IL-2 Sturmovik: Cliffs of Dover|http://store.steampowered.com/app/63950/|Solidshield removed via patch
+Manhunt|http://store.steampowered.com/app/12130/|SecuROM on retail
+Need For Speed: Hot Pursuit|http://store.steampowered.com/app/47870/|Solidshield on retail
+Neverwinter Nights 2 Platinum|http://store.steampowered.com/app/2760/|SecuROM removed in patch/hotfix 1.23.1765
+Prince of Persia: The Two Thrones|http://store.steampowered.com/app/13530/|StarForce on retail
+Rig &#8216;n&#8217; Roll|http://store.steampowered.com/app/46370/|StarForce on retail
+Secret Files Tunguska|http://store.steampowered.com/app/40330/|TAGES on retail
+Secret Files 2: Puritas Cordis|http://store.steampowered.com/app/40340/|TAGES removed via patch
+Shank|http://store.steampowered.com/app/6120/|SolidShield removed via patch
+Silent Hunter III|http://store.steampowered.com/app/15210/|StarForce on retail
+The Sims 3|http://store.steampowered.com/app/47890/|Also includes <a href="http://store.steampowered.com/sub/7222/">Expansions</a> (Most recent: Showtime). SecuROM, Disc check only on retail, 5 machine limit on other digital distributions.
+Spore|http://store.steampowered.com/sub/1741/|SecuROM on retail
+Star Wars: Knights of the Old Republic|http://store.steampowered.com/app/32370/|SecuROM on retail
+Tom Clancy&#8217;s Splinter Cell: Chaos Theory|http://store.steampowered.com/app/13570/|StarForce on retail, removed from the Steam version via patch
+Tom Clancy&#8217;s Splinter Cell: Double Agent|http://store.steampowered.com/app/13580/|SecuROM removed in patch 1.02a.
+Trackmania Nations Forever|http://store.steampowered.com/app/11020/|StarForce removed in the <a href="http://en.wikipedia.org/wiki/TrackMania#Copy_protection_system">&#8220;Forever&#8221; update</a>
+Trackmania United Forever|http://store.steampowered.com/app/7200/|StarForce removed in the <a href="http://en.wikipedia.org/wiki/TrackMania#Copy_protection_system">&#8220;Forever&#8221; update</a>
+Wings of Prey|http://store.steampowered.com/app/45300/|StarForce on retail, removed from Steam version via patch
+The Witcher: Enhanced Edition Director&#8217;s Cut|http://store.steampowered.com/app/20900/|TAGES removed in patch 1.5
+Zeit²|http://store.steampowered.com/app/33390/|SolidShield removed via patch

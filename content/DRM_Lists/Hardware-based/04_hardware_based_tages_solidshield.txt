@@ -1,0 +1,21 @@
+Hardware-based: TAGES/Solidshield
+To remove the TAGES drivers from your computer, use <a href="http://www.tagesprotection.com/main.htm?page=5.5.htm">TagesSetup</a>.
+-----
+Dawn of Discovery|http://store.steampowered.com/app/33210/Anno 1404/|Activation limit removed in patch
+Anno 1404/Dawn of Discovery: Venice Expansion|http://store.steampowered.com/app/33340/|3 machine limit
+Chronicles of Riddick: Assault on Dark Athena|http://store.steampowered.com/app/9860/|3 machine limit, 1 activation added back every 30 days.
+nail&#8217;d|http://store.steampowered.com/app/901592/|3 machine limit, 1 activation added back every 30 days. 5 revocations of these activations are allowed per month, and 1 is added back every 30 days.
+James Cameron&#8217;s Avatar: The Game|http://store.steampowered.com/app/33280/|3 machine limit, 1 activation added back every 30 days.
+Sherlock Holmes versus Jack the Ripper|http://store.steampowered.com/app/11190/|Limits unknown
+
+Solidshield is Tages&#8217; new DRM technology. It is presumed that this is their replacement for TAGES.
+-----
+A Game of Thrones &#8211; Genesis|http://store.steampowered.com/app/58550/|5 machine limit
+Anno 2070|http://store.steampowered.com/app/48240/|3 machine limit
+Crysis 2 (Store page unavailable)|http://store.steampowered.com/app/99830/|5 machine limit
+Dead Space 2|http://store.steampowered.com/app/47780/|5 machine limit
+Shift 2 Unleashed|http://store.steampowered.com/app/47920/|5 machine limit
+
+<b>Notes on activations</b>
+-----
+TAGES does not, and will not, have a revoke tool. Be careful!

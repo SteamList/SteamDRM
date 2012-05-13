@@ -1,0 +1,37 @@
+body { font-family: Arial,Helvetica,sans-serif; background-image: url(../images/background.png); background-repeat: repeat-x; background-color: #000000; color: #b8b8b8; line-height: 1.5em; width: 1000px; margin-left: auto; margin-right: auto; text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.25); text-align: justify; }
+#wrapper {background-color: #222222; border-radius: 10px 10px 10px 10px; border: 1px solid #555555; padding: 0.25em; margin: 2em 0; box-shadow: 0px 0px 10px #000000;  background-image: url(../images/logo.png); background-repeat: no-repeat; background-position: top right; }
+hgroup { margin: 0.5em; }
+hgroup h1 { font-weight: normal; font-size: 3em; }
+hgroup a, nav a { color: #CCCCCC; }
+hgroup a:hover, nav a:hover { color: #ececec; text-decoration: none;}
+nav { border-bottom: 1px solid #555555; box-shadow: 0px 1px 0px #000000; margin: 0.5em; }
+nav ul { list-style-type: none; margin: 0; padding: 0; font-weight: bold; font-size: small; line-height: 2em; }
+nav li ul { display: none; position: absolute; z-index: 1;}
+nav li:hover > ul { display: block; }
+nav > ul > li { display: inline-block; }
+nav > ul > li > a { border-radius: 5px 5px 0 0; border-bottom: none; box-shadow: 0px -2px 3px #000000; }
+nav > ul > li > a:hover { border-radius: 5px 5px 0 0; border-bottom: none; box-shadow: 0px -2px 3px #000000, inset 0 30px 25px -10px #aaaaaa; }
+nav > ul > li > ul a { width: 100%; }
+nav > ul > li > ul > li ul {left: 100%; }
+nav a { display: inline-block; background-color: #000000; margin: 0; padding: 0.25em 1em; border: 1px solid #555555; }
+nav a:hover,nav li:hover > a { background-color: #787878; box-shadow: inset 0 30px 25px -10px #aaaaaa; }
+a { color: #787878; text-decoration: none; }
+a:hover { color: #979797; text-decoration: underline;}
+article { background-color: #000000; border: 1px solid #555555; border-radius: 5px 5px 5px 5px; margin: 0 0.5em 1em 0.5em; padding: 0 1em; z-index: 0; box-shadow: 0px 3px 3px #000000, inset 0 -75px 75px -100px #aaaaaa; }
+article p, article ul, article ol { font-size: 0.9em; }
+article h1, article h2, article h3, article h4 { color: #ffffff; border-bottom: 1px dotted #555555; font-weight: normal; }
+article h1 { font-size: 1.5em; }
+article h2 { font-size: 1.25em; }
+article h3 { font-size: 1em; font-weight: bold; }
+article h4 { font-size: 1em; font-weight: bold; margin-left: 1em; }
+#content {float: left; position: relative; width: 725px; min-width: 725px; }
+#twitterWidget {float: left; margin: 0 0 1em 6px; position: relative; z-index: 0; }
+.modifiedDate { font-size: small; text-align: right; font-style: italic; }
+.downloadSourceLink {font-size: small; text-align: right; margin: 0; padding: 0; position: relative; margin-top: -3em;}
+footer {clear: both; text-align: center; border-top: 1px solid #555555; margin: 0.5em; font-size: small; box-shadow: 0px -1px 0px #000000;}
+
+/*Twitter widget stuff*/
+.twtr-doc { border: 1px solid #555555;  box-shadow: 0px 3px 3px #000000, inset 0 -75px 75px -100px #aaaaaa; }
+.twtr-ft { border-top: 1px solid #555555; }
+.twtr-hd { border-bottom: 1px solid #555555; }
+.twtr-tweets { margin: 0 0.5em; }

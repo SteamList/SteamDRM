@@ -1,0 +1,38 @@
+Hardware-based: SecuROM
+To remove SecuROM from your computer, use the <a href="https://support.securom.com/removaltool.html">Removal Tool</a>.
+-----
+Age of Booty; Unlimited activations|http://store.steampowered.com/app/21600/
+Batman: Arkham Asylum|http://store.steampowered.com/app/35140/|<ul><li>Non-GotY Edition: 4 activations per month. A revoke tool is available in your Steam Tools section.<li>GotY Edition: 4 machine limit</li></ul>
+Batman: Arkham City|http://store.steampowered.com/app/57400/|5 machine limit, 10 activations per machine
+BioShock 2|http://store.steampowered.com/app/8850/|Unlimited activations
+Blood Bowl: Dark Elves Edition|http://store.steampowered.com/app/11170/|5 machine limit
+Blood Bowl: Legendary Edition|http://store.steampowered.com/app/58520/|5 machine limit
+Borderlands DLC Pack|http://store.steampowered.com/sub/6638/|Used for 2 of the 4 included DLC packs (shown below).
+Borderlands: Game of the Year|http://store.steampowered.com/app/901566/|Used for 2 of the 4 included DLC packs (shown below).
+Borderlands: The Zombie Island of Dr. Ned|http://store.steampowered.com/app/8990/|5 machine limit.
+Borderlands: Mad Moxxi&#8217;s Underdome Riot|http://store.steampowered.com/app/40940/|5 machine limit
+Cities XL 2011|http://store.steampowered.com/app/58510/|5 machine limit
+Colin McRae DiRT 2|http://store.steampowered.com/app/12840/|Used for CD check only
+Crysis|http://store.steampowered.com/app/17300/|5 machine limit
+Crysis Warhead|http://store.steampowered.com/app/17330/|5 machine limit
+Dark Void Zero|http://store.steampowered.com/app/45730/|5 machine limit
+DiRT 3|http://store.steampowered.com/app/44320/|Activation limit unknown
+Fable III|http://store.steampowered.com/app/6720/|5 activations per month
+F.E.A.R. 1 Complete|http://store.steampowered.com/app/21090/|Only multiplayer is active. To avoid this, download the updated multiplayer <a href="http://projectorigin.warnerbros.com/fearcombat/">here</a>.
+Flock|http://store.steampowered.com/app/21640/|Unlimited activations
+FUEL|http://store.steampowered.com/app/12800/|Unlimited activations
+Grand Theft Auto IV: Complete Edition|http://store.steampowered.com/app/901583/|Used in GTA IV and its expansions as noted below
+Grand Theft Auto IV|http://store.steampowered.com/app/12210/|Unlimited activations
+Grand Theft Auto IV: Episodes from Liberty City|http://store.steampowered.com/app/12220/|15 machine limit
+Major League Baseball 2K9|http://store.steampowered.com/app/8840/|Used for CD check only
+Mass Effect|http://store.steampowered.com/app/17460/|Found on the DLC installers only, SecuROM removable post-installation. 3 machine limit.
+Medal of Honor|http://store.steampowered.com/app/47790/|Single-player portion only, 5 machine limit, 1 activation added every 60 days.
+Neopets Puzzle Adventure|http://store.steampowered.com/app/21620/|5 machine limit
+Sacred 2: Fallen Angel|http://store.steampowered.com/app/22700/|4 activations every 3 months
+The Sims Medieval|http://store.steampowered.com/app/102820/|5 machine limit using new &#8220;Content Protection&#8221; by &#8220;Sony DADC Austria AG&#8221;. <a href="http://store.steampowered.com/news/5984/">News Link</a>
+Test Drive Unlimited 2|http://store.steampowered.com/app/9930/|4 machine limit
+
+<b>Notes on activations</b>
+-----
+To revoke SecuROM activations, look for your SecuROM game <a href="https://support.securom.com/pop_titles.html">here</a>. The revoke tool should be listed on the game&#8217;s page, if it exists. If the game is not listed, <a href="https://support.securom.com/contact.html">contact support</a>.
+Anyone running an EA game with SecuROM &#8220;released after May 2008&#8243; who would like to de-authorize machines should have a look at the http://activate.ea.com/deauthorize/EA Game Authorization Management page.

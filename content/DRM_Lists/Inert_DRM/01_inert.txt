@@ -1,0 +1,2 @@
+Inert DRM
+Some games on Steam contain completely inert remnants of a prior DRM system which was removed (S.T.A.L.K.E.R.: Clear Sky or Dead Space for instance) or DRM files which are not used unless you attach a DRM expansion pack or DLC to the game (Borderlands, for instance). The DRM files do nothing, install nothing and are completely inert unless otherwise noted.

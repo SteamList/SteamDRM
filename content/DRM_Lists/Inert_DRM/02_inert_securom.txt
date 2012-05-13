@@ -1,0 +1,15 @@
+Inert DRM: SecuROM
+-----
+BioShock|http://store.steampowered.com/app/7670/
+Borderlands|http://store.steampowered.com/app/8980/|Is activated upon installation of either Zombie Island or Underdome Riot. Both <a href="http://store.steampowered.com/app/50110/">The Secret Armory of General Knoxx</a> and <a href="http://store.steampowered.com/app/65920/">Claptrap&#8217;s Robot Revolution</a> are SecuROM free, and thus will not activate the inert files (assuming you did not buy/activate the first two expansions).
+Cities XL 2012|http://store.steampowered.com/app/201760
+Dead Space|http://store.steampowered.com/app/17470/
+Divinity II: The Dragon Knight Saga|http://store.steampowered.com/app/58540/
+Dungeons and Dragons: Daggerdale|http://store.steampowered.com/app/99100/
+Far Cry 2: Fortune&#8217;s Edition|http://store.steampowered.com/app/19900/|SecuROM removed in 1.03 update despite store page&#8217;s notes, but some files still remain.
+F.E.A.R. 1 Complete|http://store.steampowered.com/app/21090/|Single-player expansions are inert, but multiplayer is active.
+The Misadventures of P.B. Winterbottom|http://store.steampowered.com/app/40930/
+Overlord|http://store.steampowered.com/app/11450/
+Spellforce &#8211; Platinum Edition|http://store.steampowered.com/app/39540/
+Star Wars Republic Commando|http://store.steampowered.com/app/6000/
+The Witcher 2: Assassins of Kings|http://store.steampowered.com/app/20920/

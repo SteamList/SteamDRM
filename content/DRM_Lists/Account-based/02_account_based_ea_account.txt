@@ -1,0 +1,39 @@
+Account-based: EA Accounts
+EA Accounts exist for two purposes:
+<b>To activate and run the game.</b> This requires a constant Internet connection, even in single-player modes. The benefit to this, however, is that DLC, if it exists, is more easily managed than below.
+<b>To access online features, including DLC.</b> In this case, the EA account is not required to access single-player (in some cases, it may be required to activate the game). For DLC, however, the game will require an account either way.
+This list will be categorized as such, as well as games that use EA Classic accounts. Single-player games in the latter category will be specially marked, either as an option or exclusively single-player.
+<b>EA Account required to run (requires constant Internet connection even in single player mode):</b>
+-----
+Command &amp; Conquer 4|http://store.steampowered.com/app/47700/
+Darkspore|http://store.steampowered.com/app/99890/|Technically structured like an MMO despite having single-player.
+
+<b>EA Account required for activation or online services/DLC:</b>
+-----
+Alice: Madness Returns|http://store.steampowered.com/app/19680/
+Battlefield: Bad Company 2|http://store.steampowered.com/app/24960/|Also includes <a href="http://store.steampowered.com/app/47880/">Vietnam</a>
+Burnout Paradise: The Ultimate Box|http://store.steampowered.com/app/24740/
+Command &amp; Conquer 3|http://store.steampowered.com/app/24790/|Also includes <a href="http://store.steampowered.com/app/24810/">Kane&#8217;s Wrath</a>
+Command &amp; Conquer: Red Alert 3|http://store.steampowered.com/app/17480/
+Dead Space 2|http://store.steampowered.com/app/47780/
+Dragon Age: Origins|http://store.steampowered.com/app/17450/|Also includes <a href="http://store.steampowered.com/app/47730/">Awakening</a>. Single-player only.
+Dragon Age 2 (Store page unavailable)|http://store.steampowered.com/app/47900/|Single-player only
+Mass Effect 2|http://store.steampowered.com/app/24980/|Single-player only
+FIFA Manager 09|http://store.steampowered.com/app/17400/
+FIFA Manager 10|http://store.steampowered.com/app/24850/
+FIFA Manager 11|http://store.steampowered.com/app/47850/
+Gatling Gears|http://store.steampowered.com/app/102810/|5 activation limit per 24 hours
+Medal of Honor|http://store.steampowered.com/app/47790/
+Medal of Honor: Airborne|http://store.steampowered.com/app/24840/
+Mirror&#8217;s Edge|http://store.steampowered.com/app/17410/|Single-player only
+Need For Speed: Hot Pursuit|http://store.steampowered.com/app/47870/
+Need For Speed: Shift|http://store.steampowered.com/app/24870/
+Need For Speed: Undercover|http://store.steampowered.com/app/17430/
+Shift 2 Unleashed|http://store.steampowered.com/app/47920/
+The Sims 3|http://store.steampowered.com/app/47890/|Also includes <a href="http://store.steampowered.com/sub/7222/">Expansions</a> (Most recent: Showtime)
+SPORE|http://store.steampowered.com/app/17390/|Also includes <a href="http://store.steampowered.com/app/17440/">Creepy &amp; Cute</a> + <a href="http://store.steampowered.com/app/24720/">Galactic Adventures</a>. Single-player only.
+Warp|http://store.steampowered.com/app/102850/
+
+<b>EA Classic account required for online services:</b>
+-----
+Battlefield 2|http://store.steampowered.com/app/24860/

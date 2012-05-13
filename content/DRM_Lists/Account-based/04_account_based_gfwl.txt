@@ -1,0 +1,55 @@
+Account-based: Games for Windows Live
+There are two kinds of GFWL activation:
+<b>Current method:</b> Server-Side Activation, or SSA. This binds the CD key permanently to your GFWL account, similarly to Steam. Thanks to this feature, the games do not carry activation limits! On top of this, a new GFWL feature has been added: Zero Day Piracy Protection (or ZDPP). This is their attempt to prevent pre-release copies from being played, and it can only be applied to SSA games.
+<b>Legacy method:</b> A simple CD key check. This still requires an Internet connection, but it does not tie the key to your account. This has an activation limit between 10-20 (usually 15), similar to the usual Microsoft products (such as Office). If you hit the limit, contact Microsoft support. With proper evidence they will give you a new key, but you are only allowed one more key. After that, you will need to buy the game again.
+It should also be noted that GFWL is not supported worldwide. In the event that you bind an SSA key to an account that is not in a supported region, you will lose the key (and, consequently, access to the game).
+<b>SSA Titles (ZDPP specially marked):</b>
+-----
+Age of Empires Online|http://store.steampowered.com/app/105430/
+Batman: Arkham Asylum|http://store.steampowered.com/app/35140/|Single-player only. GOTY Edition uses SSA, regular edition does not.
+Batman: Arkham City|http://store.steampowered.com/app/57400/|ZDPP Title
+Blacklight: Tango Down|http://store.steampowered.com/app/27330/
+Bulletstorm|http://store.steampowered.com/app/99810/|ZDPP Title. An online profile is required to run, but the game can be played offline.
+Colin McRae DiRT 2|http://store.steampowered.com/app/12840/
+Dead Rising 2|http://store.steampowered.com/app/45740/|ZDPP Title
+Dead Rising 2: Off the Record|http://store.steampowered.com/app/45770/|ZDPP Title
+DiRT 3|http://store.steampowered.com/app/901636/|Likely an SSA Title
+F1 2010|http://store.steampowered.com/app/44310/
+F1 2011|http://store.steampowered.com/app/44360/|Likely an SSA Title
+Fable III|http://http://store.steampowered.com/app/6720/
+Gotham City Impostors|http://store.steampowered.com/app/21170/|Likely an SSA Title. <a href="http://www.gothamcityimpostors.com/forums/showthread.php/3563">Details</a>
+Insanely Twisted Shadow Planet|http://store.steampowered.com/app/205730/|Likely an SSA Title
+Lost Planet 2|http://store.steampowered.com/app/45750/|ZDPP Title
+Microsoft Flight|http://store.steampowered.com/app/203850/
+Mortal Kombat Kollection|http://store.steampowered.com/app/205350/|Likely an SSA Title
+Operation Flashpoint: Red River|http://store.steampowered.com/app/44340/|Likely an SSA Title
+Resident Evil: Operation Raccoon City|http://store.steampowered.com/app/209100/
+Section 8|http://store.steampowered.com/app/38220/
+Section 8: Prejudice|http://store.steampowered.com/app/97100/
+Street Fighter X Tekken|http://store.steampowered.com/app/209120/
+Super Street Fighter IV Arcade Edition|http://store.steampowered.com/app/45760/
+Toy Soldiers|http://store.steampowered.com/app/98300/|Likely an SSA Title
+Virtua Tennis 4|http://store.steampowered.com/app/71390/
+
+<b>Legacy Titles:</b>
+-----
+Battlestations Pacific|http://store.steampowered.com/app/8170/
+Bioshock 2|http://store.steampowered.com/app/8850/
+The Club|http://store.steampowered.com/app/10460/
+Fallout 3|http://store.steampowered.com/app/22300/|<a href="http://store.steampowered.com/app/22400/">Includes</a> <a href="http://store.steampowered.com/app/22410/">All</a> <a href="http://store.steampowered.com/app/22420/">Five</a> <a href="http://store.steampowered.com/app/22430/">DLC</a> <a href="http://store.steampowered.com/app/22440/">Packs</a>. Single-player only, can be completely ignored (no profile/activation needed).
+Flatout: Ultimate Carnage|http://store.steampowered.com/app/12360/
+FUEL|http://store.steampowered.com/app/12800/
+Grand Theft Auto IV: Complete Edition|http://store.steampowered.com/app/901583/
+Grand Theft Auto 4|http://store.steampowered.com/app/12210/|Includes <a href="http://store.steampowered.com/app/12220/">Episodes</a>
+Warhammer 40K: Dawn of War 2|http://store.steampowered.com/app/15620/|Includes <a href="http://store.steampowered.com/app/20570/">Chaos Rising</a>
+Juiced 2: Hot Import Nights|http://store.steampowered.com/app/9400/
+Kane &amp; Lynch: Dead Men|http://store.steampowered.com/app/8080/
+Lost Planet: Colonies Edition|http://store.steampowered.com/app/45720/
+Quantum of Solace|http://store.steampowered.com/app/10080/
+Red Faction Guerrilla|http://store.steampowered.com/app/20500/
+Resident Evil 5|http://store.steampowered.com/app/21690/
+Star Wars: Clone Wars: Republic Heroes|http://store.steampowered.com/app/32420/
+Stormrise|http://store.steampowered.com/app/10650/
+Street Fighter 4|http://store.steampowered.com/app/21660/
+Universe at War: Earth Assault|http://store.steampowered.com/app/10430/
+Vancouver 2010|http://store.steampowered.com/app/34180/

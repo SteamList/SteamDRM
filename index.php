@@ -1,4 +1,24 @@
 <?php
+/*
+Copyright 2012 Josh "Cheeseness" Bush
+
+This file is part of Para CMS.
+
+Para CMS is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Para CMS is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Para CMS.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+
 include_once("config.php");
 include_once("functions.php");
 
@@ -58,16 +78,16 @@ new TWTR.Widget({
   rpp: 6,
   interval: 30000,
   width: 250,
-  height: 550,
+  height: 500,
   theme: {
     shell: {
-      background: '#000000',
-      color: '#ffffff'
+      background: '#a0a078',
+      color: '#efefef'
     },
     tweets: {
-      background: '#000000',
-      color: '#b8b8b8',
-      links: '#787878'
+      background: '#a0a078',
+      color: '#505020',
+      links: '#efefef'
     }
   },
   features: {

@@ -1,0 +1,28 @@
+This is the source code for The Big List of 3rd Party DRM on Steam.
+
+License
+-------
+The content directory is under public domain. However, that's just the content.
+The actual website source is based on Josh "Cheeseness" Bush's Para CMS:
+
+http://para.jbushproductions.com/
+
+Installation
+------------
+1. ssh into your web server, cd to the directory you want to install this in.
+2. git clone git://github.com/SteamDRM/SteamDRM.git .
+3. Grab a nice drink and enjoy!
+
+Contribution
+------------
+If you want to add to or edit the list, make a fork on GitHub, make your
+changes, then make a pull request through GitHub. Describe your changes and
+be thorough! Follow the format, cite your sources, etc.
+
+If you want to contribute to the website code, I suggest you contribute here:
+
+https://github.com/Cheeseness/para-cms
+
+Feedback is welcome, and pull requests are even more welcome.
+
+Love, flibit

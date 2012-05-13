@@ -213,7 +213,18 @@ function getArticleContent($articlePath, $articleSource)
 				$returnString .= "\t</ul>\n";
 				
 			}
-			
+			else
+			{
+				//Captions
+				$caption = explode("\n", $segment);
+				foreach ($caption as $captionLine)
+				{
+					if ($captionLine != "")
+					{
+						$returnString .= "\t<p>" . $captionLine . "</p>\n";
+					}
+				}
+			}
 		}
 	}
 	

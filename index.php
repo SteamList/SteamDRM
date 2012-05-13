@@ -78,16 +78,16 @@ new TWTR.Widget({
   rpp: 6,
   interval: 30000,
   width: 250,
-  height: 500,
+  height: 550,
   theme: {
     shell: {
-      background: '#a0a078',
-      color: '#efefef'
+      background: '#000000',
+      color: '#ffffff'
     },
     tweets: {
-      background: '#a0a078',
-      color: '#505020',
-      links: '#efefef'
+      background: '#000000',
+      color: '#b8b8b8',
+      links: '#787878'
     }
   },
   features: {

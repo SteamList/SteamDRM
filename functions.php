@@ -134,6 +134,7 @@ function getAllArticles($articlePath)
 function getArticleContent($articlePath, $articleSource)
 {
 	GLOBAL $contentPath;
+	GLOBAL $linkSeparator;
 	
 	$text = file_get_contents($contentPath . $articlePath . "/" . $articleSource);
 	
@@ -199,7 +200,7 @@ function getArticleContent($articlePath, $articleSource)
 								$returnString .= "<a href = '" . $listItem[1] . "'>" . $listItem[0] . "</a>";
 								if ($listItem[2] != "")
 								{
-									$returnString .= "; " . $listItem[2];
+									$returnString .=  $linkSeparator . $listItem[2];
 								}
 							}
 						}

@@ -12,6 +12,9 @@ $contactAddress = "flibitijibibo@flibitijibibo.com";
 //This is the location that para will look in for your folders and .txt files
 $contentPath = "content/";
 
+//This is what will immediately follow links in lists before any additional text
+$linkSeparator = "; ";
+
 //If you want your twitter feed to be visible on the site, uncomment this and put your twitter username in
 $twitterAccount = "steamdrm";
 

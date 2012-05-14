@@ -1,0 +1,6 @@
+PCGamingWiki
+<a href="http://www.pcgamingwiki.com">http://www.pcgamingwiki.com/</a>
+
+This is a wiki with the massive task of providing technical information, config optimizations and general tech support for <i>every single PC game</i>.
+
+Being a wiki, most contributions are done directly through user editing.

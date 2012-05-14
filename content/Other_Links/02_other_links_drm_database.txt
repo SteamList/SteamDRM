@@ -1,4 +1,0 @@
-<a href="http://www.drmdatabase.net/">DRM Database</a>
-This is a site whose goal is to document <i>all</i> DRM schemes for <i>every</i> game, rather than games for a single distribution channel.
-
-DRM Database is also powered by user contributions, with contributions being done through a <a href="http://www.drmdatabase.net/submitgame">submission form</a>.

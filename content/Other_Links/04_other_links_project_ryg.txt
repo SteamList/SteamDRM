@@ -1,4 +1,0 @@
-<a href="http://www.reclaimyourgame.com/">Reclaim Your Game</a>
-Also known as Project RYG, this is a site and company that provides DRM and EULA analysis for developers, publishers and customers. The founders, Martin and Lisa Pham, also write editorials and articles about their work and their philosophies on developer/user interactions.
-
-While there is a <a href="http://www.reclaimyourgame.com/forum.php">forum</a> available for discussion/feedback, the site is predominantly run by Martin and Lisa, with some occasional guest features.

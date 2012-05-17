@@ -1,7 +1,0 @@
-Account-based: Rockstar Social Club
------
-Grand Theft Auto IV: Complete Edition|http://store.steampowered.com/app/901583/
-Grand Theft Auto IV|http://store.steampowered.com/app/12210/
-Grand Theft Auto IV: Episodes from Liberty City|http://store.steampowered.com/app/12220/
-L.A. Noire: The Complete Edition|http://store.steampowered.com/app/110800/|Used for online/community features only.
-Max Payne 3|http://store.steampowered.com/app/204100/

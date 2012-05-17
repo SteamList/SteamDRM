@@ -26,7 +26,7 @@ function getPageTitle($currentPage)
 	return $returnString;
 }
 
-function getNavMenu($externalLinks = array())
+function getNavMenu($externalLinks = array(), $currentPage = "")
 {
 	$returnString = "";
 	
@@ -37,16 +37,16 @@ function getNavMenu($externalLinks = array())
 	$menuArray = array_merge($menuArray, $externalLinks);
 	
 	//Build nav and ul markup
-	$returnString = "<nav>\n";
-	$returnString .= buildNavMenu($menuArray);
+	$returnString = "<nav id = 'navPrimary'>\n";
+	$returnString .= buildNavMenu($menuArray, $currentPage);
 	$returnString .= "</nav>\n\n";
 	
 	return $returnString;
 }
 
-function buildNavMenu($menuArray)
+function buildNavMenu($menuArray, $currentPage = "")
 {
-	$returnString .= "\n\t<ul>\n";
+	$returnString = "\n\t<ul>\n";
 	foreach ($menuArray as $menuTitle => $menuContent)
 	{
 		$subMenu = "";
@@ -55,8 +55,13 @@ function buildNavMenu($menuArray)
 		if (is_array($menuContent))
 		{
 			$menuURL = "#";
-			$subMenu = buildNavMenu($menuContent);
-			$returnString .= "\t\t<li class = 'parentMenu'><a href = '". $menuURL . "'>" . $menuTitle . "</a>";
+			$subMenu = buildNavMenu($menuContent, $currentPage);
+			$class = "parentMenu";
+			if (substr($currentPage, 0, stripos($currentPage, "/")) == $menuTitle)
+			{
+				$class .= " current";
+			}
+			$returnString .= "\t\t<li class = '" . $class. "'><a href = '". $menuURL . "'>" . $menuTitle . "</a>";
 			$returnString .= $subMenu;
 			$returnString .= "</li>\n";
 
@@ -64,18 +69,81 @@ function buildNavMenu($menuArray)
 		else
 		{
 			$menuURL = $menuContent;
+			$class = "";
+
+			//FIXME: This if seems excessive.
+			if ((substr($currentPage, stripos($currentPage, "/")) == $menuTitle) || (substr($currentPage, stripos($currentPage, "/") + 1) == $menuTitle))
+			{
+				$class .= " current";
+			}
 			
 			if ((stripos($menuURL, "http://") === false) && (stripos($menuURL, "https://") === false))
 			{
 				$menuURL = "index.php?page=" . $menuURL;
 			}
-			$returnString .= "\t\t<li><a href = '". $menuURL . "'>" . $menuTitle . "</a></li>\n";
+			else
+			{
+				$class .= " external";
+			}
+			
+			$returnString .= "\t\t<li class = '" . $class . "'><a href = '". $menuURL . "'>" . $menuTitle;
+			if (stripos($class, "external") !== false)
+			{
+				$returnString .= " &raquo;";
+			}
+			$returnString .= "</a></li>\n";
 		}
-		
-		
 	}
 	
 	$returnString .= "\t</ul>\n";
+	
+	return $returnString;
+}
+
+function getContentsMenu($currentPage)
+{
+	//FIXME: I didn't really do any design work for this. It feels a lot like a hack.
+	$articleList = getArticleList($currentPage);
+	
+	$tempList = array();
+	foreach($articleList as $article)
+	{
+		$tempList[$article] = getArticleContent($currentPage, $article, true);
+	}
+	$contentsList = array();
+	foreach($tempList as $article => $heading)
+	{
+		if (is_array($heading))
+		{
+			$contentsList = array_merge($contentsList, $heading);
+		}
+		else
+		{
+			$contentsList[$article] = $heading;
+		}
+	}
+	
+	if (count($contentsList) > 1)
+	{
+		$returnString = "\t<nav id = 'navContents'>\n";
+		$returnString .= "\t\t<h2>Contents</h2>\n";
+		$returnString .= buildContentsMenu($contentsList);
+		$returnString .= "\t</nav>\n";
+	}
+	
+	return $returnString;
+}
+
+function buildContentsMenu($contentsList)
+{
+	$returnString .= "\t\t<ol>\n";
+	
+	foreach($contentsList as $url => $title)
+	{
+		$returnString .= "<li><a href = '#" . $url . "'>" . $title . "</a></li>";
+	}
+	
+	$returnString .= "\t\t</ol>\n";
 	
 	return $returnString;
 }
@@ -123,10 +191,11 @@ function getArticleList($currentPage)
 }
 
 //TODO: This is a dodgey quick-fix for SteamDRM. Need to come up with a nicer solution for this (and also make it multilevel)
-function getAllArticles($articlePath)
+function getAllArticles($articlePath, $headingsOnly = false)
 {
 
 	$returnValue = "";
+	$contentList = array();
 	
 	$parentPath = substr($articlePath, 0, strripos($articlePath, "/") + 1);
 	$callingPath = substr($articlePath, strripos($articlePath, "/") + 1);
@@ -143,14 +212,29 @@ function getAllArticles($articlePath)
 			$articles = getArticleList($parentPath . $folder);
 			foreach ($articles as $article)
 			{
-				$returnValue .= getArticleContent($parentPath . $folder, $article);
+				if ($headingsOnly)
+				{
+					$contentList[$article] = getArticleContent($parentPath . $folder, $article, $headingsOnly);
+				}
+				else
+				{
+					$returnValue .= getArticleContent($parentPath . $folder, $article, $headingsOnly);
+				}
 			}
 		}
 	}
-	return $returnValue;
+	
+	if ($headingsOnly)
+	{
+		return $contentList;
+	}
+	else
+	{
+		return $returnValue;
+	}
 }
 
-function getArticleContent($articlePath, $articleSource)
+function getArticleContent($articlePath, $articleSource, $headingsOnly = false)
 {
 	GLOBAL $contentPath;
 	GLOBAL $linkSeparator;
@@ -159,7 +243,7 @@ function getArticleContent($articlePath, $articleSource)
 	
 	if (stripos($text, "_EVERYTHING_") !== false)
 	{
-		return getAllArticles($articlePath);
+		return getAllArticles($articlePath, $headingsOnly);
 	}
 	
 	$returnString = "<article id = " . $articleSource . ">\n";
@@ -167,11 +251,19 @@ function getArticleContent($articlePath, $articleSource)
 	//Pull off the heading (it's always the first line)
 	if (stripos($text, "\n") === false)
 	{
+		if ($headingsOnly)
+		{
+			return $text;
+		}
 		$returnString .= "\t<h1>" . $text . "</h1>\n";
 		$returnString .= "\t<p class = 'downloadSourceLink'><a href = '" . $contentPath . $articlePath . "/" . $articleSource . "'>&raquo; Download Source</a></p>\n";
 	}
 	else
 	{
+		if($headingsOnly)
+		{
+			return substr($text, 0, stripos($text, "\n"));
+		}
 		
 		$returnString .= "\t<h1>" . substr($text, 0, stripos($text, "\n")) . "</h1>\n";
 		$returnString .= "\t<p class = 'downloadSourceLink'><a href = '" . $contentPath . $articlePath . "/" . $articleSource . "'>&raquo; Download Source</a></p>\n";

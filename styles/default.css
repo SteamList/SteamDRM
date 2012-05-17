@@ -37,7 +37,7 @@ hgroup a:hover, #navPrimary a:hover { color: #ececec; text-decoration: none;}
 #navContents { font-size: 1em; float: right; width: 220px; margin: 0 6px 1em 0; background-color: #000000; border: 1px solid #555555; border-radius: 5px 5px 5px 5px; padding: 0 1em; z-index: 0; box-shadow: 0px 3px 3px #000000, inset 0 -75px 75px -100px #aaaaaa;}
 #navContents h2 { margin: 0.5em 0 0 0; font-weight: normal; color: #ffffff; }
 #navContents ol { list-style-type: none; margin: 0 0 1em 0; padding: 0; }
-#navContents li { margin: 0; padding: 0; }
+#navContents li { margin: 0; padding: 0; font-size: 0.75em; }
 a { color: #787878; text-decoration: none; }
 a:hover { color: #979797; text-decoration: underline;}
 article { background-color: #000000; border: 1px solid #555555; border-radius: 5px 5px 5px 5px; margin: 0 0.5em 1em 0.5em; padding: 0 1em; z-index: 0; box-shadow: 0px 3px 3px #000000, inset 0 -75px 75px -100px #aaaaaa; }

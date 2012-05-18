@@ -4,6 +4,9 @@ Gamespy is not necessarily a DRM scheme; it is more of a multiplayer service (ma
 Borderlands|http://store.steampowered.com/app/8980/
 Crysis|http://store.steampowered.com/app/17300/
 Crysis: Warhead|http://store.steampowered.com/app/17330/
+Warhammer® 40,000: Dawn of War® - Gold Edition|http://store.steampowered.com/app/4570/
+Warhammer® 40,000: Dawn of War® - Dark Crusade|http://store.steampowered.com/app/4580/
+Warhammer® 40,000: Dawn of War® - Soulstorm|http://store.steampowered.com/app/9450/
 F.E.A.R.2: Project Origin|http://store.steampowered.com/app/16450/
 FlatOut 2|http://store.steampowered.com/app/2990/
 Hunted: The Demon&#8217;s Forge|http://store.steampowered.com/app/22450/

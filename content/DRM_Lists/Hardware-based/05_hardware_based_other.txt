@@ -1,6 +1,5 @@
 Other Hardware-based DRM
 -----
-Alliance of Valiant Arms|http://store.steampowered.com/app/102700/|Uses GameGuard protection
 Earth 2160|http://store.steampowered.com/app/1900/|3 machine activation limit
 Football Manager 2009|http://store.steampowered.com/app/10540/|Uniloc, 5 machine limit
 Gatling Gears|http://store.steampowered.com/app/102810/|EA Access. 5 activation limit per 24 hours.

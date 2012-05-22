@@ -3,7 +3,7 @@ Unless otherwise noted, you must have a constant Internet connection at ALL time
 -----
 Anno 2070|http://store.steampowered.com/app/48240/|Offline mode available after registering/updating the game.
 Assassin&#8217;s Creed 2|http://store.steampowered.com/app/33230/|Offline mode available after registering/updating the game.
-Assassin&#8217;s Creed Brotherhood|http://store.steampowered.com/app/48190/|Offline mode available after registering/updating the game.
+Assassin&#8217;s Creed Brotherhood|http://store.steampowered.com/app/48190/|Offline mode available without registering/updating the game. Use parameter -playoffline.
 Assassin&#8217;s Creed Revelations|http://store.steampowered.com/app/201870/|Offline mode available after registering/updating the game.
 Driver San Francisco|http://store.steampowered.com/app/33440/|Internet connection only needed to log in and start.
 From Dust|http://store.steampowered.com/app/33460/|Offline mode available after registering/updating the game.

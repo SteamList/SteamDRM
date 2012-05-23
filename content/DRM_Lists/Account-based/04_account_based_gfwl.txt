@@ -6,7 +6,6 @@ It should also be noted that GFWL is not supported worldwide. In the event that 
 <b>SSA Titles (ZDPP specially marked):</b>
 -----
 Age of Empires Online|http://store.steampowered.com/app/105430/
-Batman: Arkham Asylum|http://store.steampowered.com/app/35140/|Single-player only. GOTY Edition uses SSA, regular edition does not.
 Batman: Arkham City|http://store.steampowered.com/app/57400/|ZDPP Title
 Blacklight: Tango Down|http://store.steampowered.com/app/27330/
 Bulletstorm|http://store.steampowered.com/app/99810/|ZDPP Title. An online profile is required to run, but the game can be played offline.
@@ -33,6 +32,7 @@ Virtua Tennis 4|http://store.steampowered.com/app/71390/
 
 <b>Legacy Titles:</b>
 -----
+Batman: Arkham Asylum|http://store.steampowered.com/app/35140/|Single-player only
 Battlestations Pacific|http://store.steampowered.com/app/8170/
 Bioshock 2|http://store.steampowered.com/app/8850/
 The Club|http://store.steampowered.com/app/10460/

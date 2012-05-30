@@ -3,7 +3,8 @@ Other Hardware-based DRM
 Earth 2160|http://store.steampowered.com/app/1900/|3 machine activation limit
 Football Manager 2009|http://store.steampowered.com/app/10540/|Uniloc, 5 machine limit
 Gatling Gears|http://store.steampowered.com/app/102810/|EA Access. 5 activation limit per 24 hours.
-L.A. Noire: The Complete Edition|http://store.steampowered.com/app/110800/|GameShield Ironwrap &amp; Patcher. Machine limit unknown.
+L.A. Noire: The Complete Edition|http://store.steampowered.com/app/110800/|GameShield Ironwrap &amp; Patcher. Machine limit explicitly not available per Rockstar policy.
+Max Payne 3|http://store.steampowered.com/app/204100/|GameShield Ironwrap &amp; Patcher. Machine limit explicitly not available per Rockstar policy.
 Monster Trucks Nitro|http://store.steampowered.com/app/16620/|Activated through RedLynx servers. Activation limit exists, but is unknown and can be reset (<a href="http://forums.steampowered.com/forums/showthread.php?t=984048">Thread</a>).
 Spectromancer|http://store.steampowered.com/app/22500/|Proprietary activation method though CD key. 5 machine limit.
 Two Worlds Epic Edition|http://store.steampowered.com/app/1930/|Proprietary activation limit (limit unknown). If limit is reached, <a href="http://www.southpeakgames.com/support/pc/Two+Worlds+Epic+Edition/">contact support</a>.

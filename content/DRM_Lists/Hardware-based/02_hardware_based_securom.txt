@@ -13,8 +13,8 @@ Borderlands: The Zombie Island of Dr. Ned|http://store.steampowered.com/app/8990
 Borderlands: Mad Moxxi&#8217;s Underdome Riot|http://store.steampowered.com/app/40940/|5 machine limit
 Cities XL 2011|http://store.steampowered.com/app/58510/|5 machine limit
 Colin McRae DiRT 2|http://store.steampowered.com/app/12840/|Used for CD check only
-Crysis|http://store.steampowered.com/app/17300/|5 machine limit
-Crysis Warhead|http://store.steampowered.com/app/17330/|5 machine limit
+Crysis|http://store.steampowered.com/app/17300/|50 machine limit
+Crysis Warhead|http://store.steampowered.com/app/17330/|50 machine limit
 Dark Void Zero|http://store.steampowered.com/app/45730/|5 machine limit
 DiRT 3|http://store.steampowered.com/app/44320/|Activation limit unknown
 Fable III|http://store.steampowered.com/app/6720/|5 activations per month

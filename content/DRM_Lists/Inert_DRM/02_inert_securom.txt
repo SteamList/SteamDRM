@@ -1,5 +1,6 @@
 Inert DRM: SecuROM
 -----
+ArcaniA &#8211; Gothic 4|http://store.steampowered.com/app/39690/|SecuROM. Installs files that can be safely removed without the Removal Tool. <a href="http://forums.steampowered.com/forums/showthread.php?p=31729685#post31729685">Source</a>
 BioShock|http://store.steampowered.com/app/7670/
 Borderlands|http://store.steampowered.com/app/8980/|Is activated upon installation of either Zombie Island or Underdome Riot. Both <a href="http://store.steampowered.com/app/50110/">The Secret Armory of General Knoxx</a> and <a href="http://store.steampowered.com/app/65920/">Claptrap&#8217;s Robot Revolution</a> are SecuROM free, and thus will not activate the inert files (assuming you did not buy/activate the first two expansions).
 Cities XL 2012|http://store.steampowered.com/app/201760

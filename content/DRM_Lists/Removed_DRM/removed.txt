@@ -3,7 +3,6 @@ There are numerous games that have DRM in retail form, but do not have said DRM 
 -----
 All games from Telltale Games|http://store.steampowered.com/publisher/Telltale%20Games|SecuROM on retail
 Anomaly: Warzone Earth|http://store.steampowered.com/app/91200/|SecuROM on GamersGate
-ArcaniA &#8211; Gothic 4|http://store.steampowered.com/app/39690/|SecuROM removed via patch
 ARMA: Combat Operations|http://store.steampowered.com/app/2780/|SecuROM removed via patch
 ARMA II|http://store.steampowered.com/app/33900/|SecuROM and <a href="http://en.wikipedia.org/wiki/FADE">FADE</a> removed via patch
 ARMA II: Operation Arrowhead|http://store.steampowered.com/app/33930/|SecuROM removed via patch

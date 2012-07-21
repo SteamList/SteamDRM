@@ -4,6 +4,7 @@ ArcaniA &#8211; Gothic 4|http://store.steampowered.com/app/39690/|SecuROM. Insta
 BioShock|http://store.steampowered.com/app/7670/
 Borderlands|http://store.steampowered.com/app/8980/|Is activated upon installation of either Zombie Island or Underdome Riot. Both <a href="http://store.steampowered.com/app/50110/">The Secret Armory of General Knoxx</a> and <a href="http://store.steampowered.com/app/65920/">Claptrap&#8217;s Robot Revolution</a> are SecuROM free, and thus will not activate the inert files (assuming you did not buy/activate the first two expansions).
 Cities XL 2012|http://store.steampowered.com/app/201760
+Crysis Warhead|http://store.steampowered.com/app/17330/|Crysis Wars is inert. Crysis Warhead itself is still active.
 Dead Space|http://store.steampowered.com/app/17470/
 Divinity II: The Dragon Knight Saga|http://store.steampowered.com/app/58540/
 Dungeons and Dragons: Daggerdale|http://store.steampowered.com/app/99100/
@@ -13,6 +14,7 @@ Gothic II: Gold Edition|http://store.steampowered.com/app/39510/
 Hospital Tycoon|http://store.steampowered.com/app/11590/
 Kohan: Ahriman's Gift|http://store.steampowered.com/app/97120/
 Legendary|http://store.steampowered.com/app/16730/
+Men of War|http://store.steampowered.com/app/7830/
 The Misadventures of P.B. Winterbottom|http://store.steampowered.com/app/40930/
 Overlord|http://store.steampowered.com/app/11450/
 Spellforce &#8211; Platinum Edition|http://store.steampowered.com/app/39540/

@@ -1,5 +1,6 @@
 Other Hardware-based DRM
 -----
+Doom Rails|http://store.steampowered.com/app/41400/|<a href="http://www.oreans.com/themida.php">Themida</a>. 5 machine limit.
 Earth 2160|http://store.steampowered.com/app/1900/|3 machine activation limit
 Football Manager 2009|http://store.steampowered.com/app/10540/|Uniloc, 5 machine limit
 Gatling Gears|http://store.steampowered.com/app/102810/|EA Access. 5 activation limit per 24 hours.

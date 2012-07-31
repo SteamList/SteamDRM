@@ -1,16 +1,18 @@
 Account-based: Ubisoft DRM
-Unless otherwise noted, you must have a constant Internet connection at ALL times to play these games.
+Unless otherwise noted, you should be able to access an offline mode after registering and updating the game. Without updating, the game may require a constant connection at all times.
+
+Some of these games may have trouble with the Uplay launcher. Check <a href="http://forums.steampowered.com/forums/showthread.php?p=32030790#post32030790">here</a> to make sure your game is updating properly.
 -----
-Anno 2070|http://store.steampowered.com/app/48240/|Offline mode available after registering/updating the game.
-Assassin&#8217;s Creed 2|http://store.steampowered.com/app/33230/|Offline mode available after registering/updating the game.
-Assassin&#8217;s Creed Brotherhood|http://store.steampowered.com/app/48190/|Offline mode available without registering/updating the game. Use parameter -playoffline.
-Assassin&#8217;s Creed Revelations|http://store.steampowered.com/app/201870/|Offline mode available after registering/updating the game.
-Driver San Francisco|http://store.steampowered.com/app/33440/|Offline mode available after registering/updating the game.
-From Dust|http://store.steampowered.com/app/33460/|Offline mode available after registering/updating the game.
+Anno 2070|http://store.steampowered.com/app/48240/
+Assassin's Creed 2|http://store.steampowered.com/app/33230/
+Assassin's Creed Brotherhood|http://store.steampowered.com/app/48190/|Offline mode available without registering/updating the game. Use parameter -playoffline.
+Assassin's Creed Revelations|http://store.steampowered.com/app/201870/
+Driver San Francisco|http://store.steampowered.com/app/33440/
+From Dust|http://store.steampowered.com/app/33460/
 Might &amp; Magic Heroes VI|http://store.steampowered.com/app/48220/|Required for activation and online features.
 Prince of Persia: The Forgotten Sands|http://store.steampowered.com/app/33320/
-The Settlers 7|http://store.steampowered.com/app/901249/
+The Settlers 7|http://store.steampowered.com/app/901249/|Connection required at ALL times.
 Silent Hunter 5|http://store.steampowered.com/app/48110/
-Tom Clancy's Ghost Recon: Future Soldier™|http://store.steampowered.com/app/212630/|Offline mode available after registering/updating the game.
-Tom Clancy&#8217;s H.A.W.X. 2|http://store.steampowered.com/app/48160/
-Tom Clancy&#8217;s Splinter Cell: Conviction|http://store.steampowered.com/app/33220/
+Tom Clancy's Ghost Recon: Future Soldier™|http://store.steampowered.com/app/212630/
+Tom Clancy's H.A.W.X. 2|http://store.steampowered.com/app/48160/|Connection required at ALL times.
+Tom Clancy's Splinter Cell: Conviction|http://store.steampowered.com/app/33220/

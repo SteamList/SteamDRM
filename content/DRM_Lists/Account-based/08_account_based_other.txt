@@ -13,6 +13,7 @@ Frozen Synapse|http://store.steampowered.com/app/98200/|Must create an account a
 Galactic Civilizations II: Ultimate Edition|http://store.steampowered.com/app/202200/|Requires a Stardock account
 Metal Drift|http://store.steampowered.com/app/32200/|Must create an account to play
 Plain Sight|http://store.steampowered.com/app/49900/|Activation through Beatnik servers, requires log-in to play
+The Political Machine 2012|http://store.steampowered.com/app/211120/|Requires a Stardock account
 Saints Row: The Third|http://store.steampowered.com/app/55230/|THQ account required for community features
 Sins of a Solar Empire: Rebellion|http://store.steampowered.com/app/204880/|Requires a Stardock account
 Sins of a Solar Empire: Trinity|http://store.steampowered.com/app/201290/|Requires a Stardock account

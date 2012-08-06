@@ -13,8 +13,9 @@ Darkspore|http://store.steampowered.com/app/99890/|Technically structured like a
 Alice: Madness Returns|http://store.steampowered.com/app/19680/
 Battlefield: Bad Company 2|http://store.steampowered.com/app/24960/|Also includes <a href="http://store.steampowered.com/app/47880/">Vietnam</a>
 Burnout Paradise: The Ultimate Box|http://store.steampowered.com/app/24740/
-Command &amp; Conquer 3|http://store.steampowered.com/app/24790/|Also includes <a href="http://store.steampowered.com/app/24810/">Kane&#8217;s Wrath</a>
-Command &amp; Conquer: Red Alert 3|http://store.steampowered.com/app/17480/
+Command & Conquer 3|http://store.steampowered.com/app/24790/|Also includes <a href="http://store.steampowered.com/app/24810/">Kane&#8217;s Wrath</a>
+Command & Conquer: Red Alert 3|http://store.steampowered.com/app/17480/
+Command & Conquer: Red Alert 3 - Uprising|http://store.steampowered.com/app/24800/
 Dead Space 2|http://store.steampowered.com/app/47780/
 Dragon Age: Origins|http://store.steampowered.com/app/17450/|Also includes <a href="http://store.steampowered.com/app/47730/">Awakening</a>. Single-player only.
 Dragon Age 2 (Store page unavailable)|http://store.steampowered.com/app/47900/|Single-player only

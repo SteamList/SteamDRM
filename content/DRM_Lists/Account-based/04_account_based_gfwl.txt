@@ -17,7 +17,6 @@ DiRT 3|http://store.steampowered.com/app/901636/|Likely an SSA Title
 F1 2010|http://store.steampowered.com/app/44310/
 F1 2011|http://store.steampowered.com/app/44360/|Likely an SSA Title
 Fable III|http://http://store.steampowered.com/app/6720/
-Gotham City Impostors|http://store.steampowered.com/app/21170/|Likely an SSA Title. <a href="http://www.gothamcityimpostors.com/forums/showthread.php/3563">Details</a>
 Insanely Twisted Shadow Planet|http://store.steampowered.com/app/205730/|Likely an SSA Title
 Iron Brigade|http://store.steampowered.com/app/115120/|Likely an SSA Title
 Lost Planet 2|http://store.steampowered.com/app/45750/|ZDPP Title

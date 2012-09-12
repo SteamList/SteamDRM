@@ -19,4 +19,5 @@ Sins of a Solar Empire: Rebellion|http://store.steampowered.com/app/204880/|Requ
 Sins of a Solar Empire: Trinity|http://store.steampowered.com/app/201290/|Requires a Stardock account
 Trackmania Nations Forever|http://store.steampowered.com/app/11020/|Trackmania account required for online features
 Trackmania United Forever|http://store.steampowered.com/app/7200/|Trackmania account required for online features
+Turba|http://store.steampowered.com/app/58400/|Account required for leaderboards
 Wings of Prey|http://store.steampowered.com/app/45300/|Requires a <a href="http://yuplay.com/help.php?page=faq">YuPlay</a> account for multiplayer

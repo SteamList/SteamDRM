@@ -2,6 +2,7 @@ Account-based: Kalypso Launcher
 <a href="http://forum.kalypsomedia.com/showthread.php?tid=7909">About Kalypso Launcher</a>
 -----
 Airline Tycoon 2|http://store.steampowered.com/app/201490/
+Anna|http://store.steampowered.com/app/217690/
 Disciples III - Resurrection|http://store.steampowered.com/app/200670/
 DUNGEONS - Steam Special Edition|http://store.steampowered.com/app/57650/
 The First Templar - Steam Special Edition|http://store.steampowered.com/app/57680/

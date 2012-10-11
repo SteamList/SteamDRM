@@ -28,7 +28,7 @@ Section 8|http://store.steampowered.com/app/38220/
 Section 8: Prejudice|http://store.steampowered.com/app/97100/
 Street Fighter X Tekken|http://store.steampowered.com/app/209120/
 Super Street Fighter IV Arcade Edition|http://store.steampowered.com/app/45760/
-Toy Soldiers|http://store.steampowered.com/app/98300/|Likely an SSA Title
+Toy Soldiers|http://store.steampowered.com/app/98300/|Likely an SSA Title. <a href="http://store.steampowered.com/news/9054/">Can choose between GFWL and Steamworks.</a>
 Virtua Tennis 4|http://store.steampowered.com/app/71390/
 
 <b>Legacy Titles:</b>

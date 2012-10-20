@@ -6,7 +6,7 @@ Anomaly: Warzone Earth|http://store.steampowered.com/app/91200/|SecuROM on Gamer
 ARMA: Combat Operations|http://store.steampowered.com/app/2780/|SecuROM removed via patch
 ARMA II|http://store.steampowered.com/app/33900/|SecuROM and <a href="http://en.wikipedia.org/wiki/FADE">FADE</a> removed via patch
 ARMA II: Operation Arrowhead|http://store.steampowered.com/app/33930/|SecuROM removed via patch
-Assassin's Creed Brotherhood|store.steampowered.com/app/48190/|SolidShield on other digital distributors
+Assassin's Creed Brotherhood|http://store.steampowered.com/app/48190/|SolidShield on other digital distributors
 Battlefield: Bad Company 2|http://store.steampowered.com/app/24960/|SecuROM OR disc check on retail, SecuROM removed from Steam version in patch 522175.
 Bionic Commando|http://store.steampowered.com/app/21670/|SecuROM on retail
 Bionic Commando: Rearmed|http://store.steampowered.com/app/21680/|SecuROM on retail

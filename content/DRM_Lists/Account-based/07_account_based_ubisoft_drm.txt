@@ -1,7 +1,7 @@
 Account-based: Ubisoft DRM
 Unless otherwise noted, you should be able to access an offline mode after registering and updating the game. Without updating, the game may require a constant connection at all times.
 
-Some of these games may have trouble with the Uplay launcher. Check <a href="http://forums.steampowered.com/forums/showthread.php?p=32030790#post32030790">here</a> to make sure your game is updating properly.
+Some of these games may have trouble with the UPlay launcher. Check <a href="http://forums.steampowered.com/forums/showthread.php?p=32030790#post32030790">here</a> to make sure your game is updating properly.
 -----
 Anno 2070|http://store.steampowered.com/app/48240/
 Assassin's Creed 2|http://store.steampowered.com/app/33230/

@@ -7,7 +7,9 @@ Anno 2070|http://store.steampowered.com/app/48240/
 Assassin's Creed 2|http://store.steampowered.com/app/33230/
 Assassin's Creed Brotherhood|http://store.steampowered.com/app/48190/|Offline mode available without registering/updating the game. Use parameter -playoffline.
 Assassin's Creed Revelations|http://store.steampowered.com/app/201870/
+Assassin's Creed 3|http://store.steampowered.com/app/208480/
 Driver San Francisco|http://store.steampowered.com/app/33440/
+Far Cry 3|http://store.steampowered.com/app/220240/
 From Dust|http://store.steampowered.com/app/33460/
 Might &amp; Magic Heroes VI|http://store.steampowered.com/app/48220/|Required for activation and online features.
 Prince of Persia: The Forgotten Sands|http://store.steampowered.com/app/33320/

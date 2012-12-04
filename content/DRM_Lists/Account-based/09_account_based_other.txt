@@ -10,13 +10,9 @@ Crysis 2 (Store page unavailable)|http://store.steampowered.com/app/99830/|Onlin
 Crysis 2 - Maximum Edition|http://store.steampowered.com/app/108800/|Online play requires a MyCrysis account
 Delta Force: Xtreme 2|http://store.steampowered.com/app/32610/|Must create an account and &#8220;activate&#8221; through the game to play.
 Frozen Synapse|http://store.steampowered.com/app/98200/|Must create an account and &#8220;activate&#8221; through the game for online features.
-Galactic Civilizations II: Ultimate Edition|http://store.steampowered.com/app/202200/|Requires a Stardock account
 Metal Drift|http://store.steampowered.com/app/32200/|Must create an account to play
 Plain Sight|http://store.steampowered.com/app/49900/|Activation through Beatnik servers, requires log-in to play
-The Political Machine 2012|http://store.steampowered.com/app/211120/|Requires a Stardock account
 Saints Row: The Third|http://store.steampowered.com/app/55230/|THQ account required for community features
-Sins of a Solar Empire: Rebellion|http://store.steampowered.com/app/204880/|Requires a Stardock account
-Sins of a Solar Empire: Trinity|http://store.steampowered.com/app/201290/|Requires a Stardock account
 Trackmania Nations Forever|http://store.steampowered.com/app/11020/|Trackmania account required for online features
 Trackmania United Forever|http://store.steampowered.com/app/7200/|Trackmania account required for online features
 Turba|http://store.steampowered.com/app/58400/|Account required for leaderboards

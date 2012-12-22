@@ -1,6 +1,6 @@
 Hardware-based: StarForce/ACTControl
 -----
-DCS A-10C Warthog|http://store.steampowered.com/app/61010/|Limit exists but is unknown. <a href="http://forums.eagle.ru/showthread.php?t=59002">Source</a>
+DCS A-10C Warthog|http://store.steampowered.com/app/61010/|10 machine limit. After 10 activations, 1 more is generated in a month.
 Wargame: European Escalation|http://store.steampowered.com/app/58610/|5 machine limit
 
 ACTControl is a fork of StarForce AAA Protection. It is unknown if this is either a genuine fork or a replacement of StarForce. <a href="http://actcontrol.net/">Information</a>

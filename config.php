@@ -22,13 +22,13 @@ $linkSeparator = "; ";
 $twitterAccount = "steamdrm";
 
 //If you want to have links to external sites in your menu, add them here using the same format as the next line. You can comment out or delete this one if want.
-$externalLinks["Source/Contribute"] = "https://github.com/SteamDRM";
+$externalLinks["Source/Contribute"] = "https://github.com/SteamList/SteamDRM";
 $externalLinks["Steam Forum Thread"] = "http://forums.steampowered.com/forums/showthread.php?t=1537801";
 $externalLinks["Steam Group"] = "http://steamcommunity.com/groups/nodrm";
 $externalLinks["Use Linux?"] = "http://steamlinux.flibitijibibo.com/";
 
 
 //This is the text that appears at the bottom of your site. Replace "yourname" with your name. Feel free to detele the "Powered by Para CMS" part if you don't want it.
-$copyrightText = "&copy; " . date("Y") . " <a href = 'https://github.com/SteamDRM'>SteamDRM contributors</a>";
+$copyrightText = "&copy; " . date("Y") . " <a href = 'https://github.com/SteamList'>SteamList contributors</a>";
 
 ?>

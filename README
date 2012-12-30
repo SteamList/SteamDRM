@@ -12,7 +12,7 @@ http://para.jbushproductions.com/
 Installation
 ------------
 1. ssh into your web server, cd to the directory you want to install this in.
-2. git clone git://github.com/SteamDRM/SteamDRM.git .
+2. git clone git://github.com/SteamList/SteamDRM.git .
 3. Grab a nice drink and enjoy!
 
 Contribution

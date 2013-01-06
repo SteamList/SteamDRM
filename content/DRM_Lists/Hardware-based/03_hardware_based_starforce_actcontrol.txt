@@ -6,7 +6,7 @@ Wargame: European Escalation|http://store.steampowered.com/app/58610/|5 machine 
 ACTControl is a fork of StarForce AAA Protection. It is unknown if this is either a genuine fork or a replacement of StarForce. <a href="http://actcontrol.net/">Information</a>
 -----
 Confrontation|http://store.steampowered.com/app/204560/|5 machine limit
-Disciples III - Resurrection|http://store.steampowered.com/app/200670/|5 machine limit
+Disciples III - Reincarnation|http://store.steampowered.com/app/10270/|5 machine limit
 Game of Thrones|http://store.steampowered.com/app/208730/|5 machine limit
 Of Orcs and Men|http://store.steampowered.com/app/216910/|10 machine limit
 Postal 3|http://store.steampowered.com/app/10220/|Machine limit unknown

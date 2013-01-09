@@ -28,7 +28,6 @@ Major League Baseball 2K9|http://store.steampowered.com/app/8840/|Used for CD ch
 Mass Effect|http://store.steampowered.com/app/17460/|Found on the DLC installers only, SecuROM removable post-installation. 3 machine limit.
 Medal of Honor|http://store.steampowered.com/app/47790/|Single-player portion only, 5 machine limit, 1 activation added every 60 days.
 Neopets Puzzle Adventure|http://store.steampowered.com/app/21620/|5 machine limit
-Sacred 2: Fallen Angel|http://store.steampowered.com/app/22700/|4 activations every 3 months
 The Sims Medieval|http://store.steampowered.com/app/102820/|5 machine limit using new &#8220;Content Protection&#8221; by &#8220;Sony DADC Austria AG&#8221;. <a href="http://store.steampowered.com/news/5984/">News Link</a>
 Test Drive Unlimited 2|http://store.steampowered.com/app/9930/|4 machine limit
 

@@ -11,7 +11,6 @@ Crysis 2 - Maximum Edition|http://store.steampowered.com/app/108800/|Online play
 Delta Force: Xtreme 2|http://store.steampowered.com/app/32610/|Must create an account and &#8220;activate&#8221; through the game to play.
 Frozen Synapse|http://store.steampowered.com/app/98200/|Must create an account and &#8220;activate&#8221; through the game for online features.
 Metal Drift|http://store.steampowered.com/app/32200/|Must create an account to play
-Miner Wars 2081|http://store.steampowered.com/app/223430/|Constant connection required due to MMO structure
 Plain Sight|http://store.steampowered.com/app/49900/|Activation through Beatnik servers, requires log-in to play
 Saints Row: The Third|http://store.steampowered.com/app/55230/|THQ account required for community features
 Trackmania Nations Forever|http://store.steampowered.com/app/11020/|Trackmania account required for online features

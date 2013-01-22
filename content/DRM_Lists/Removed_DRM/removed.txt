@@ -29,6 +29,7 @@ Heroes of Might and Magic V: Hammers of Fate|http://store.steampowered.com/app/1
 Hitman: Blood Money|http://store.steampowered.com/app/6860/|SecuROM on retail
 IL-2 Sturmovik: Cliffs of Dover|http://store.steampowered.com/app/63950/|SolidShield removed via patch
 Manhunt|http://store.steampowered.com/app/12130/|SecuROM on retail
+Miner Wars 2081|http://store.steampowered.com/app/223430/|Online requirement removed from single-player campaign
 Need For Speed: Hot Pursuit|http://store.steampowered.com/app/47870/|SolidShield on retail
 Neverwinter Nights 2 Platinum|http://store.steampowered.com/app/2760/|SecuROM removed in patch/hotfix 1.23.1765
 Prince of Persia: The Two Thrones|http://store.steampowered.com/app/13530/|StarForce on retail

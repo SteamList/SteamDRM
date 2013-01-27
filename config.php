@@ -25,7 +25,6 @@ $twitterAccount = "steamdrm";
 $externalLinks["Source/Contribute"] = "https://github.com/SteamList/SteamDRM";
 $externalLinks["Steam Forum Thread"] = "http://forums.steampowered.com/forums/showthread.php?t=1537801";
 $externalLinks["Steam Group"] = "http://steamcommunity.com/groups/nodrm";
-$externalLinks["Use Linux?"] = "http://steamlinux.flibitijibibo.com/";
 
 
 //This is the text that appears at the bottom of your site. Replace "yourname" with your name. Feel free to detele the "Powered by Para CMS" part if you don't want it.

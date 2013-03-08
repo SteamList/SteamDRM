@@ -2,6 +2,7 @@ Removed DRM
 There are numerous games that have DRM in retail form, but do not have said DRM on the Steam version. There are also games that once had DRM, but it has been removed from the game entirely. To help cautious shoppers, I am adding a section for these games.
 -----
 All games from Telltale Games|http://store.steampowered.com/publisher/Telltale%20Games|SecuROM on retail
+Angry Birds Space|http://store.steampowered.com/app/210550/|Proprietary activation system on the Angry Birds shop
 Anno 2070|http://store.steampowered.com/app/48240/|SolidShield removed via patch
 Anomaly: Warzone Earth|http://store.steampowered.com/app/91200/|SecuROM on GamersGate
 ARMA: Combat Operations|http://store.steampowered.com/app/2780/|SecuROM removed via patch

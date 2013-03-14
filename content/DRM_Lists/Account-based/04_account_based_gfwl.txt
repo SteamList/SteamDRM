@@ -5,6 +5,7 @@ There are two kinds of GFWL activation:
 It should also be noted that GFWL is not supported worldwide. In the event that you bind an SSA key to an account that is not in a supported region, you will lose the key (and, consequently, access to the game).
 <b>SSA Titles (ZDPP specially marked):</b>
 -----
+Ace Combat Assault Horizon - Enhanced Edition|http://store.steampowered.com/app/228400
 Age of Empires Online|http://store.steampowered.com/app/105430/
 Batman: Arkham City|http://store.steampowered.com/app/57400/|ZDPP Title
 Blacklight: Tango Down|http://store.steampowered.com/app/27330/

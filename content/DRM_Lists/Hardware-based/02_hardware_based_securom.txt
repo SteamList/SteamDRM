@@ -34,4 +34,4 @@ Test Drive Unlimited 2|http://store.steampowered.com/app/9930/|4 machine limit
 <b>Notes on activations</b>
 -----
 To revoke SecuROM activations, look for your SecuROM game <a href="https://support.securom.com/pop_titles.html">here</a>. The revoke tool should be listed on the game&#8217;s page, if it exists. If the game is not listed, <a href="https://support.securom.com/contact.html">contact support</a>.
-Anyone running an EA game with SecuROM &#8220;released after May 2008&#8243; who would like to de-authorize machines should have a look at the http://activate.ea.com/deauthorize/EA Game Authorization Management page.
+Anyone running an EA game with SecuROM &#8220;released after May 2008&#8243; who would like to de-authorize machines should have a look at the <a href="http://activate.ea.com/deauthorize/">EA Game Authorization Management page</a>.
